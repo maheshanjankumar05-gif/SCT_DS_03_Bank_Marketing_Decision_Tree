@@ -107,6 +107,12 @@ Output images:
 
 ---
 
+## 🎥 Project Demonstration
+
+https://github.com/user-attachments/assets/529c94a9-2e53-42fa-93d4-2ae020c32432
+
+---
+
 ## 📈 Machine Learning Workflow
 
 1. Load the dataset
