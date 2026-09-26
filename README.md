@@ -1,7 +1,6 @@
 # 🌳 Decision Tree Classifier for Bank Marketing Dataset
 
-A machine learning project developed as part of the **SkillCraft Technology Data Science Internship – Task 03**. This project builds a **Decision Tree Classifier** to predict whether a customer will subscribe to a term deposit based on demographic and behavioral information from the Bank Marketing Dataset.
-
+A machine learning project that uses a **Decision Tree Classifier** to predict whether a customer is likely to subscribe to a term deposit based on demographic and behavioral information from the **Bank Marketing Dataset**.
 ---
 
 ## 📌 Objective
